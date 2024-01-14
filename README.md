@@ -22,8 +22,8 @@ JENSEN education, Malmö, Sweden
 Udemy, remote
 
 Personal Projects
-- Värdera.se. A SaaS that helps homeowners to compare brokers before selling their property. Sold to another company in 2020
-- Travlr.se A Saas for comparing flights and hotels around the world. Sold in 2021
+- Värdera.se. A SaaS that helps homeowners to compare brokers before selling their property. Sold to another company in 2021
+- Travlr.se A Saas for comparing flights and hotels around the world. Sold in 2022
 - Codenugget.io. A e-learning website for learning code by creating small weekly challenges. Discontinued in 2023.
 - The Stock Professor. A Telegram stock bot made in python and flask. Made it pubicly availabe (the code) in 2023 after gaining 580 subcribers in less than two weeks.
 - Freelancing since 2021 in Python and Wordpress.

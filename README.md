@@ -10,7 +10,7 @@ I'm looking for an opportunity to expand my skills and take the next step in my 
 Skills
 - Python, Flask, MySQL, PostgreSQL, Java, Linux, Hosting
 Wordpress, HTML/CSS, Javascript (basic), UI/UX design (basic), Linux
-REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman
+REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile Development
 
 Education
 - 2023 - Present

@@ -9,8 +9,8 @@ I'm looking for an opportunity to expand my skills and take the next step in my 
 
 Skills
 - Python, Flask, MySQL, PostgreSQL, Java, Linux, Hosting
-Wordpress, HTML/CSS, Javascript (basic), UI/UX design (basic), Linux
-REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile Development
+Wordpress, HTML/CSS, Javascript (basic), UI/UX design (basic), Linux,
+REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile Development, shell scripting
 
 Education
 - 2023 - Present
@@ -24,6 +24,5 @@ Udemy, remote
 Personal Projects
 - Värdera.se. A SaaS that helps homeowners to compare brokers before selling their property. Sold to another company in 2021
 - Travlr.se A Saas for comparing flights and hotels around the world. Sold in 2022
-- Codenugget.io. A e-learning website for learning code by creating small weekly challenges. Discontinued in 2023.
 - The Stock Professor. A Telegram stock bot made in python and flask. Made it pubicly availabe (the code) in 2023 after gaining 580 subcribers in less than two weeks.
 - Freelancing since 2021 in Python and Wordpress.

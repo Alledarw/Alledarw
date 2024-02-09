@@ -13,12 +13,12 @@ REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile D
 
 Education
 - 2023 - Present
-DevOps Engineer
-JENSEN education, Malmö, Sweden
+* DevOps Engineer
+* JENSEN education, Malmö, Sweden
 
 - 2020 - 2021
-100 days of Python
-Udemy, remote
+* 100 days of Python
+* Udemy, remote
 
 Personal Projects
 - Värdera.se. A SaaS that helps homeowners to compare brokers before selling their property. Sold to another company in 2021

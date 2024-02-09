@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## DevOps Engineer & Software Developer
-
+## DevOps Engineer
 
 Always deliver a good work ethic, proactive approaches to complex problems and function well in fast-paced/deadline driven enviroments.
 I'm looking for an opportunity to expand my skills and take the next step in my tech career.
@@ -10,7 +9,7 @@ I'm looking for an opportunity to expand my skills and take the next step in my 
 Skills
 - Python, Flask, MySQL, PostgreSQL, Java, Linux, Hosting
 Wordpress, HTML/CSS, Javascript (basic), UI/UX design (basic), Linux,
-REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile Development, shell scripting
+REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile Development, bash scripting
 
 Education
 - 2023 - Present

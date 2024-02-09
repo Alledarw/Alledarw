@@ -12,11 +12,11 @@ Wordpress, HTML/CSS, Javascript (basic), UI/UX design (basic), Linux,
 REST API:s, Cybersecurity (basic), Bootstrap, Git, Github, OOP, Postman, Agile Development, bash scripting
 
 Education
-- 2023 - Present
+2023 - Present
 * DevOps Engineer
 * JENSEN education, Malmö, Sweden
 
-- 2020 - 2021
+2020 - 2021
 * 100 days of Python
 * Udemy, remote
 

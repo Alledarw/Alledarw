@@ -22,6 +22,6 @@ Education
 
 Personal Projects
 - Värdera.se. A SaaS that helps homeowners to compare brokers before selling their property. Sold to another company in 2021
-- Travlr.se A Saas for comparing flights and hotels around the world. Sold in 2022
+- www.dip.bet. AI driven football pick predictions. Has approx 500-700 visits a month
 - The Stock Professor. A Telegram stock bot made in python and flask. Made it pubicly availabe (the code) in 2023 after gaining 580 subcribers in less than two weeks.
 - Freelancing since 2021 in Python and Wordpress.

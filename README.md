@@ -24,4 +24,3 @@ Personal Projects
 - Värdera.se. A SaaS that helps homeowners to compare brokers before selling their property. Sold to another company in 2021
 - www.dip.bet. AI driven football pick predictions. Has approx 1500 visits a month
 - The Stock Professor. A Telegram stock bot made in python and flask. Gained 580 subscribers in less than 2 weeks.
-- Freelancing since 2021 in Python and Wordpress.
